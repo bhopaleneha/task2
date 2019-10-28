@@ -1,0 +1,158 @@
+
+*{margin:0px;
+  padding:0px;
+ }
+
+
+body{background:#FAFAFA;
+}
+.header{
+
+	margin:0px 80px 0px;
+	padding:0px 0px 0px ;
+	width:1200px;
+	height:600px;
+	background-color:#F2F2F2;
+	
+	
+}
+#patch{
+	
+	width:1200px;
+	height:40px;
+	padding:0px;
+	background:white;
+	margin-top:30px;
+	margin-bottom:30px;
+
+}
+#navbar{
+margin-left:0px;
+width:1180px;
+float:right;}
+
+#navbar>li{
+width:140px;
+list-style:none;
+float:left;
+text-decoration:none;}
+
+
+li>a{
+display:block;
+color:#BDBDBD;
+line-height:40px;
+text-align:centre;
+font-size:15px;
+text-decoration:none;}
+
+li>a:hover{
+background:#F2F2F2;color:blue;}
+li>a1{
+
+font-size:20px;
+line-height:40px;
+text-align:centre;}
+input[type="text"]
+{
+	
+	font-family:Open Sans;
+	width:130px;
+	height:25px;
+	margin-top:10px;
+	margin-left:80px;
+	border-radius:5px;
+	background-color:blue;
+	color:white;
+	text-align:centre;
+	border: #D3D3D3;
+	
+	
+	
+}
+
+
+.rounded img{
+border-radius:70%;
+float:right;}
+	
+h1{
+
+
+font-family:Open Sans;
+margin-left:100px;
+margin-top:30px;
+margin-left:100px;
+color:black;
+
+font-size: 30px;
+}
+.des{
+
+width:950px;
+height:350px;
+margin-left:100px;
+margin-top:30px;
+background:#F2F2F2;
+}
+.design1{
+width:300px;
+height:350px;
+background:white;
+float:left;}
+
+.design2{
+width:300px;
+height:350px;
+background:white;
+float:left;
+margin-left:25px;}
+
+.design3{
+width:300px;
+height:350px;
+background:white;
+float:right;
+margin-left:20px;}
+
+h2{
+margin-left:20px;
+margin-top:20px;}
+h3{
+color:#A4A4A4;
+margin-left:100px;
+margin-top:40px;
+}
+b{
+margin-left:100px;
+font-size: 80px;
+color:blue;
+}
+span{
+color:#A4A4A4;
+margin-left:60px;}
+h4{
+color:#A4A4A4;
+margin-left:60px;
+margin-top:10px;
+}
+.numbe{
+margin-top:10px;
+font-size:30px;}
+input[type="submit"]
+{	font-family:Open Sans;
+	width:88%;
+	height:30px;
+	margin-top: 40px ;
+	margin-left:20px;
+	border-radius:5px;
+	border: #D3D3D3;
+	background-color:blue;
+	color:white;
+}
+.sig{
+margin-left:70px;
+margin-top:60px;
+color:#A4A4A4;
+
+}
